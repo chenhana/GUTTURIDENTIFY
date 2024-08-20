@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>C:/Users/Administrator/Desktop/pic/background.png</file>
+        <file>C:/Users/Administrator/Desktop/pic/trademark.png</file>
+        <file>C:/Users/Administrator/Desktop/pic/返回.png</file>
+        <file>C:/Users/Administrator/Desktop/pic/灰黑色.png</file>
+        <file>C:/Users/Administrator/Desktop/pic/密码.png</file>
+        <file>C:/Users/Administrator/Desktop/pic/用户.png</file>
+        <file>G:/dataset/鼻咽喉部位AI识别录像-3个/111.mp4</file>
+        <file>C:/Users/Administrator/Desktop/pic/相机.png</file>
+        <file>C:/Users/Administrator/Desktop/pic/相机.svg</file>
+    </qresource>
+</RCC>
