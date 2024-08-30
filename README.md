@@ -4,12 +4,12 @@
 
 <video src="./img/freecompress-演示视频.mp4"></video>
 
-![图片1](/img/图片1.png)
+![图片1](./img/图片1.png)
 
 
 
-![图片2](/img/图片2.png)![图片3](/img/图片3.png)
+![图片2](./img/图片2.png)![图片3](/img/图片3.png)
 
-![图片4](/img/图片4.png)
+![图片4](./img/图片4.png)
 
-![图片5](/img/图片5.png)
+![图片5](./img/图片5.png)
