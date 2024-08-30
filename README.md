@@ -4,7 +4,7 @@
 
 <video src="./img/freecompress-演示视频.mp4"></video>
 
-![图片1](./img/图片1.png)
+![图片1](/img/图片1.png)
 
 
 
