@@ -4,6 +4,12 @@
 
 <video src="./img/freecompress-演示视频.mp4"></video>
 
+
+
+https://github.com/user-attachments/assets/8353fe61-e252-4cd6-b1b2-d789965716db
+
+
+
 ![图片1](/img/图片1.png)
 
 ![图片2](./img/图片2.png)![图片3](/img/图片3.png)
